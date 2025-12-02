@@ -1,0 +1,12 @@
+{
+  "name": "yash-pandey-ecommerce",
+  "version": "1.0.0",
+  "description": "E-commerce website by Yash Pandey",
+  "author": "Yash Pandey",
+  "license": "MIT",
+  "scripts": {
+    "server": "cd server && npm start",
+    "client": "cd client && npm start",
+    "install-all": "cd server && npm install && cd ../client && npm install"
+  }
+}
